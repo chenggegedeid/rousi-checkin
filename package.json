@@ -1,0 +1,36 @@
+{
+  "name": "rousi-checkin",
+  "version": "1.0.0",
+  "description": "Rousi.pro 青龙面板自动签到脚本，支持多账号、分享率查询、魔力值统计、PushPlus 通知推送",
+  "main": "rousi_checkin.js",
+  "scripts": {
+    "start": "node rousi_checkin.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "rousi",
+    "rousi.pro",
+    "qinglong",
+    "checkin",
+    "签到",
+    "青龙",
+    "青龙面板",
+    "pushplus",
+    "PT站",
+    "魔力值",
+    "分享率"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/",
+  "bugs": {
+    "url": "https://github.com//issues"
+  }
+}
